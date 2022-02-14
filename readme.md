@@ -12,7 +12,7 @@ title: 'foo', body: 'bar', userId: 1
  
 And the endpoint which you have to use to send your data will be:
 
-`https://jsonplaceholder.typicode.com/posts/id`
+`https://jsonplaceholder.typicode.com/posts/`
 
 You need to use HTML only to send the data to the server .
 
